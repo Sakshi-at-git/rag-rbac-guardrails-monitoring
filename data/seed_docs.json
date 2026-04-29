@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Zero Trust Policy",
+    "source": "security-handbook",
+    "content": "Zero trust requires continuous verification of every user and device. Access is granted using least privilege and explicitly validated identity signals. Network location is not trusted by default."
+  },
+  {
+    "title": "RBAC Guidelines",
+    "source": "iam-docs",
+    "content": "Role-based access control maps permissions to roles such as admin, editor, and viewer. Users receive only the permissions required to perform their job. Periodic reviews remove unnecessary privilege."
+  },
+  {
+    "title": "Incident Playbook",
+    "source": "ops-runbook",
+    "content": "Security incidents should be triaged by severity, assigned an incident commander, and documented with timestamps. Post-incident analysis includes root cause, customer impact, and preventive controls."
+  }
+]
